@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](../images/e-commerce.png)
+![Desktop View](https://github.com/Kehinde13/E-commerce/blob/main/src/images/e-commerce.png)
 
 ### Links
 
